@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [内网搭建一台NTP时间服务器](https://www.bolog.top/articles/2019/07/26/1564131423656.html)
 * [我在 GitHub 上的开源项目](https://www.bolog.top/my-github-repos)
 * [世界，你好！](https://www.bolog.top/hello-solo)
 
