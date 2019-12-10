@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java 8 新特性 之 函数式编程](https://www.bolog.top/articles/2019/12/10/1575961035404.html)
 * [Spring系列之注解开启annotation-config和注解扫描component-scan区分](https://www.bolog.top/articles/2019/12/02/1575287956548.html)
 * [使用JavaMail发送邮件,465端口开启ssl加密传输](https://www.bolog.top/articles/2019/09/10/1568105189581.html)
 * [内网搭建一台NTP时间服务器](https://www.bolog.top/articles/2019/07/26/1564131423656.html)
